@@ -1,0 +1,4 @@
+C:/Users/chris/repo-you00017/dev/a5-artrender/build/CMakeFiles/a5-artrender.dir
+C:/Users/chris/repo-you00017/dev/a5-artrender/build/CMakeFiles/INSTALL.dir
+C:/Users/chris/repo-you00017/dev/a5-artrender/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/chris/repo-you00017/dev/a5-artrender/build/CMakeFiles/ZERO_CHECK.dir

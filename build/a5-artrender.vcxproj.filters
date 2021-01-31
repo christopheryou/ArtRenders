@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\chris\repo-you00017\dev\a5-artrender\artrender_app.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chris\repo-you00017\dev\a5-artrender\edge_mesh.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\chris\repo-you00017\dev\a5-artrender\main.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\chris\repo-you00017\dev\a5-artrender\artrender_app.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\chris\repo-you00017\dev\a5-artrender\config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\chris\repo-you00017\dev\a5-artrender\edge_mesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\chris\repo-you00017\dev\a5-artrender\config.h.in">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\chris\repo-you00017\dev\a5-artrender\README.md" />
+    <ClInclude Include="C:\Users\chris\repo-you00017\dev\a5-artrender\shaders\artsy.vert">
+      <Filter>Shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\chris\repo-you00017\dev\a5-artrender\shaders\artsy.frag">
+      <Filter>Shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\chris\repo-you00017\dev\a5-artrender\shaders\gouraud.vert">
+      <Filter>Shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\chris\repo-you00017\dev\a5-artrender\shaders\gouraud.frag">
+      <Filter>Shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\chris\repo-you00017\dev\a5-artrender\shaders\outline.vert">
+      <Filter>Shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\chris\repo-you00017\dev\a5-artrender\shaders\outline.frag">
+      <Filter>Shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\chris\repo-you00017\dev\a5-artrender\shaders\phong.vert">
+      <Filter>Shaders</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\chris\repo-you00017\dev\a5-artrender\shaders\phong.frag">
+      <Filter>Shaders</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\chris\repo-you00017\dev\a5-artrender\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{593554BF-B083-3A37-954E-A78F2F4F0073}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Shaders">
+      <UniqueIdentifier>{41106B66-46F3-3B39-A4FB-057A76822286}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{B40225B0-9630-3307-8966-45AD9AAA2C7D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

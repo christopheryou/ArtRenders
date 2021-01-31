@@ -1,0 +1,10 @@
+^C:\USERS\CHRIS\REPO-YOU00017\DEV\A5-ARTRENDER\BUILD\CMAKEFILES\10B47FD296DA158C2A876BC98F8AE27C\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/chris/repo-you00017/dev/a5-artrender -BC:/Users/chris/repo-you00017/dev/a5-artrender/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/chris/repo-you00017/dev/a5-artrender/build/a5-artrender.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

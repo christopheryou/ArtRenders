@@ -1,0 +1,33 @@
+﻿  Building Custom Rule C:/Users/chris/repo-you00017/dev/a5-artrender/CMakeLists.txt
+  artrender_app.cc
+cl : command line warning D9002: ignoring unknown option '-std=c++14'
+C:\Users\chris\repo-you00017\include\MinGfx-1.0\opengl_headers.h(19,1): warning C4005: 'NANOGUI_GLAD': macro redefinition
+C:\Users\chris\repo-you00017\dev\a5-artrender\artrender_app.cc : message : see previous definition of 'NANOGUI_GLAD'
+C:\Users\chris\repo-you00017\include\MinGfx-1.0\default_shader.h(84,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\chris\repo-you00017\include\MinGfx-1.0\default_shader.h(100,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\chris\repo-you00017\include\MinGfx-1.0\text_shader.h(64,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\chris\repo-you00017\dev\a5-artrender\artrender_app.cc(122,34): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\chris\repo-you00017\dev\a5-artrender\artrender_app.cc(151,44): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\chris\repo-you00017\dev\a5-artrender\artrender_app.cc(152,44): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\chris\repo-you00017\dev\a5-artrender\artrender_app.cc(156,44): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\chris\repo-you00017\dev\a5-artrender\artrender_app.cc(157,44): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\chris\repo-you00017\dev\a5-artrender\artrender_app.cc(158,44): warning C4305: 'argument': truncation from 'double' to 'float'
+  edge_mesh.cc
+C:\Users\chris\repo-you00017\dev\a5-artrender\artrender_app.cc(226,44): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\chris\repo-you00017\include\MinGfx-1.0\opengl_headers.h(19,1): warning C4005: 'NANOGUI_GLAD': macro redefinition
+C:\Users\chris\repo-you00017\dev\a5-artrender\edge_mesh.cc : message : see previous definition of 'NANOGUI_GLAD'
+C:\Users\chris\repo-you00017\include\MinGfx-1.0\default_shader.h(84,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\chris\repo-you00017\include\MinGfx-1.0\default_shader.h(100,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\chris\repo-you00017\include\MinGfx-1.0\text_shader.h(64,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\chris\repo-you00017\dev\a5-artrender\edge_mesh.cc(86,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chris\repo-you00017\dev\a5-artrender\edge_mesh.cc(219,76): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\chris\repo-you00017\dev\a5-artrender\edge_mesh.cc(225,27): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  main.cc
+C:\Users\chris\repo-you00017\dev\a5-artrender\edge_mesh.cc(229,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chris\repo-you00017\include\MinGfx-1.0\opengl_headers.h(19,1): warning C4005: 'NANOGUI_GLAD': macro redefinition
+C:\Users\chris\repo-you00017\dev\a5-artrender\main.cc : message : see previous definition of 'NANOGUI_GLAD'
+C:\Users\chris\repo-you00017\include\MinGfx-1.0\default_shader.h(84,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\chris\repo-you00017\include\MinGfx-1.0\default_shader.h(100,1): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating Code...
+C:\Users\chris\repo-you00017\include\MinGfx-1.0\text_shader.h(64,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+  a5-artrender.vcxproj -> C:\Users\chris\repo-you00017\dev\a5-artrender\build\Debug\a5-artrender.exe
